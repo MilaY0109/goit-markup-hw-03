@@ -132,10 +132,10 @@ img {
 /* ------HERO----- */
 
 .hero {
+  padding: 188px 0;
 }
 
 .hero-container {
-  padding: 188px 0;
   background: #2e2f42;
   text-align: center;
   display: block;
